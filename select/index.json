@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ランデブー",
+  "base_artist": "sloppy dim",
+  "createdAt": "2026-02-15T06:59:08.765434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミッドナイト・ランデブー",
+      "artist": "カシオペア",
+      "has_synced": false,
+      "path": "select/01_ミッドナイト・ランデブー_カシオペア.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ランデブー",
+      "artist": "My Little Lover",
+      "has_synced": false,
+      "path": "select/02_ランデブー_My_Little_Lover.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ランデブー",
+      "artist": "UA",
+      "has_synced": true,
+      "path": "select/03_ランデブー_UA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ランデブー",
+      "artist": "にしな",
+      "has_synced": true,
+      "path": "select/04_ランデブー_にしな.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ランデブー (Acoustic Ver.)",
+      "artist": "藤原颯太",
+      "has_synced": false,
+      "path": "select/05_ランデブー_(Acoustic_Ver.)_藤原颯太.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ランデブー",
+      "artist": "sloppy dim",
+      "has_synced": false,
+      "path": "select/pl_01_ランデブー_sloppy_dim.txt"
+    }
+  ]
+}
